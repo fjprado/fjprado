@@ -1,6 +1,6 @@
 ### Olá! 😁
 
-Meu nome é Fernando Prado, trabalho com implantação de sistema desde 2016 e atualmente estou me aventurando no mundo da programação, procurando a cada dia aumentar ainda mais meu portfólio de conhecimento e ideias.
+Meu nome é Fernando Prado, atualmente trabalho como desenvolvedor Full Stack utilizando das tecnologias de Asp.Net Core MVC, Angular e SQL, tenho experiência de mais de 4 anos com implantação de sistemas e atualmente estou me aventurando no mundo da programação mobile, procurando a cada dia aumentar ainda mais meu portfólio de conhecimento e ideias.
 
 No meu tempo livre eu gosto muito de correr por aí fazendo corridas de rua (🏃) e jogar videogame (🎮).
 
