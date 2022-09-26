@@ -1,6 +1,6 @@
 ### Hello! 😁
 
-My name is Fernando Prado, I currently work as a Full Stack developer using Asp.Net Core MVC, Angular and SQL technologies, I have more than 4 years of experience with systems implementation and I am currently venturing into the world of mobile programming, looking for every day increase my portfolio of knowledge and ideas even more.
+My name is Fernando Prado, I've been working as Full Stack developer up to 2 years using .Net, Angular, React, Microsoft Azure and SQL technologies, I also have more than 4 years of experience with systems implementation and I am currently venturing into the world of mobile programming, looking for every day increase my portfolio of knowledge and ideas even more.
 
 In my spare time I really enjoy running around doing street races (🏃) and playing video games (🎮).
 
